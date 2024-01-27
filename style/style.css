@@ -1,8 +1,8 @@
 /* 1.1.general-setting-pages *************************/
 /****************************************************/
 :root {
-	--pr-color: #fff;
-	--second-color: #0a0a0a;
+	--pr-color: #000000;
+	--second-color: #ffffff;
 	--cubicbz: cubic-bezier(.9, 0, .1, 1);
 	--fz-big: 60px;
 }
@@ -35,6 +35,7 @@ section {
 
 .content {
 	width: 100%;
+	margin-top: 300px;
 	padding: 0 70px;
 }
 
